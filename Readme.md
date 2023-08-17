@@ -45,6 +45,11 @@ The app uses the following libraries and components:
 4. Swipe down to refresh the data. New data will be fetched and stored in the local database.
 5. The SwipeRefreshLayout's progress bar will indicate when data is being refreshed.
 
+
+## Screenshot
+
+ <img src="ApiDemoApp.gif" width="300">
+
 ## Contributing
 
 If you would like to contribute to this project, you can:
